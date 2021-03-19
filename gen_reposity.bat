@@ -1,0 +1,1 @@
+gormt -H=127.0.0.1 -d=game_platform -p=Shoumeng2020@)@) -u=root --port=3304  -F=false -o ./model

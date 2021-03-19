@@ -1,0 +1,5 @@
+mysql:
+  dsn: "root:Shoumeng2020@)@)@tcp(127.0.0.1:3304)/game_platform?parseTime=true&loc=Asia%2fShanghai&charset=utf8mb4"
+  maxidleconns: 1
+  openconns: 15
+  connmaxlifetime: 1
